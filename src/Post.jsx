@@ -11,7 +11,7 @@ const Post = ({ post }) => {
                 <h2 className='card-title'>{post.title}</h2>
                 <p className='fw-light fs-7'>{post.datetime}</p>
             </Link>
-            <p className='card-text'>{
+            <p className='card-text'>{ 
                 (post.body).length <=25 
                     ? post.body
                     : `${(post.body).slice(0,25)}...`
