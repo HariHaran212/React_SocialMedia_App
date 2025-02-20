@@ -23,6 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 
-*.Post.jsx
-*.PostLayout.jsx
-*.index.css
+# Source Files
+src/*.Post.jsx
+src/*.PostLayout.jsx
+src/*.index.css
