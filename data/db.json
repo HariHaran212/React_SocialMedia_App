@@ -27,8 +27,14 @@
     {
       "id": "5",
       "title": "My Fifth Post",
-      "datetime": "February 20, 2025 1:41:19 PM",
-      "body": "Hello Guyz"
+      "datetime": "February 20, 2025 3:25:47 PM",
+      "body": "Hello Guys"
+    },
+    {
+      "id": "6",
+      "title": "React Course Completion",
+      "datetime": "February 20, 2025 3:43:50 PM",
+      "body": "I am glad to say that I have completed React Course. I am deploying this social media App."
     }
   ]
 }
