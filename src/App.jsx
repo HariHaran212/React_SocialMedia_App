@@ -2,7 +2,7 @@ import { use, useEffect, useState } from 'react'
 
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.bundle.min'
-import "bootstrap-icons/font/bootstrap-icons.css";
+import "../public/fonts/bootstrap-icons/font/bootstrap-icons.css";
 import '@fontsource/poppins';  // Defaults to 400 weight (regular)
 import '@fontsource/poppins/400.css'; // Import specific weight
 import '@fontsource/poppins/600.css'; // Import bold weight
