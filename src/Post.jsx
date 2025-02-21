@@ -1,9 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-// import { useParams } from 'react-router-dom'
 
 const Post = ({ post }) => {
-    // const {id} = useParams()
     return (
     <article className='card m-3 pb-2'>
         <div className="card-body">
