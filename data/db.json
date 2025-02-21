@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "posts":[ 
     {
       "id": "1",
       "title": "My First Post",
@@ -33,8 +33,14 @@
     {
       "id": "6",
       "title": "React Course Completion",
-      "datetime": "February 20, 2025 3:43:50 PM",
-      "body": "I am glad to say that I have completed React Course. I am deploying this social media App."
+      "datetime": "February 20, 2025 8:59:54 PM",
+      "body": "I am glad to say that I have completed React Course. I am deploying this social media App"
+    },
+    {
+      "id": "7",
+      "title": "Java",
+      "datetime": "February 20, 2025 9:06:29 PM",
+      "body": "I happy to complete my java course"
     }
   ]
 }
